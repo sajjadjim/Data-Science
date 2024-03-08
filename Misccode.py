@@ -1,4 +1,4 @@
-#Misccode.py
+#Misccode.py 
 wt=[21.4,19.7,19.7,20.6,20.8,20.1,19.7,20.3,20.9]
 import scipy.stats as sc
 res=sc.describe(wt)
