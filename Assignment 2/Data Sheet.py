@@ -1,3 +1,4 @@
+# Question no i solve problem ( fire / not fire ) code
 import numpy as np
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
