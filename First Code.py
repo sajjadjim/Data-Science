@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import scipy.linalg as slin 
-
+ 
 dob=pd.read_csv("C:/Users/HP/Desktop/315/obli.csv")
 dnonc=pd.read_csv("C:/Users/HP/Desktop/315/nonc.csv")
 
