@@ -1,4 +1,4 @@
-#StatisticsCT_24Feb.py 
+#StatisticsCT_24Feb.py  
 # Data Set used in correlation and regression
 x=[9,7,11,12,8,7,8,11,10,12,6,6]
 y=[8.1,6,3.6,4,5,10,7.6,8,8,6,8.6,8]
