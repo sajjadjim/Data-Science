@@ -1,0 +1,8 @@
+Student ID,Student Name,CGPA,Age,Semester,Gender
+111,A,3.22,18,F22,male
+222,B,,20,S22,female
+333,C,3.62,,F23,female
+444,D,4,20,F23,male
+555,E,3.68,21,S23,male
+666,F,3.89,22,S23,male
+777,O,3.91,30,F23,other
