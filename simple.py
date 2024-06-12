@@ -1,4 +1,5 @@
-#Claculate mean, median, mode, standard deviation, variance, Minimum, Maximum of 5, 6, 7, 10 12
+#Claculate mean, median, mode, standard deviation, variance, Minimum, Maximum of 5, 6, 7, 10 12       
+#Data Science Code
 
 import numpy as np
 import pandas as pd
